@@ -1,4 +1,4 @@
-<img height=300 width=300 src="https://i.ibb.co.com/fV5zTWGK/kminds-transparent.png">
+<img height=350 width=350 src="https://i.ibb.co.com/fV5zTWGK/kminds-transparent.png">
 
 ## KUET Machine Intelligence & Data Science Community
 
