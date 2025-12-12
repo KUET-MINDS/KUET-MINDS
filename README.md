@@ -1,5 +1,6 @@
-<img height=300 width=300 src="https://i.ibb.co.com/fV5zTWGK/kminds-transparent.png"/>
-##KUET Machine Intelligence & Data Science Community 
+<img height=300 width=300 src="https://i.ibb.co.com/fV5zTWGK/kminds-transparent.png">
+
+## KUET Machine Intelligence & Data Science Community
 
 <!--
 **KUET-MINDS/KUET-MINDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
